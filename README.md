@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there fellow geek 👋 I am Richeek 
 
-<!--
-**sudoRicheek/sudoRicheek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Programmer, an aspiring Physicist and a Deep Learning, Web Dev(```read DRF```) and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Engineering Physics from the Indian Institute of Technology, Bombay. I really love coding and learning about new frameworks and the recent developments in open-source. Hence, I try to keep myself at pace with the fast moving technological sphere of our world. ```I live on the internet.```:desktop_computer:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently trying to dig deeper in Theoretical Physics, Deep Learning, Algorithms and Networking labyrinths.
+
+- 👯 I’m looking to collaborate on any sort of fun project ! Contact me and I'm in, it's that simple !
+
+- 💬 Ask me about anything ! I'll be happy to have any sort of chat with you ranging from the upcoming AOT S04 to the recent advancements in Physics or the inevitable AI domination of the future.
+
+- 📫 Where can you find more of me: [My Homepage](https://sudoricheek.github.io/)
+
+#### [:envelope: Mail Me !](mailto:richeekdas2001@gmail.com) [:camera: Instagram](https://www.instagram.com/richeekdas2001/) [:books: LinkedIn](https://www.linkedin.com/in/richeek-das-204b84188/)
