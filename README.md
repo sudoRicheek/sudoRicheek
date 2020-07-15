@@ -11,6 +11,4 @@ A Programmer, an aspiring Physicist and a Deep Learning, Web Dev(```read DRF```)
 
 - 📫 Where can you find more of me: [My Homepage](https://sudoricheek.github.io/)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoRicheek&show_icons=true)
-
 #### [:envelope: Mail Me !](mailto:richeekdas2001@gmail.com) [:camera: Instagram](https://www.instagram.com/richeekdas2001/) [:books: LinkedIn](https://www.linkedin.com/in/richeek-das-204b84188/) [:computer: My coding habits !](https://sourcerer.io/sudoricheek)
