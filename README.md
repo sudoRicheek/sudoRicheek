@@ -1,6 +1,6 @@
 ### Hi there fellow geek 👋 I am Richeek 
 
-A Programmer, an aspiring Physicist and a Deep Learning, Web Dev(```read DRF```) and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Engineering Physics from the Indian Institute of Technology, Bombay. I really love coding and learning about new frameworks and the recent developments in open-source. Hence, I try to keep myself at pace with the fast moving technological sphere of our world. ```I live on the internet.```:desktop_computer:
+A Programmer, an aspiring Physicist and a Deep Learning, Web Dev(```read DRF```) and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Computer Science and Engineering from the Indian Institute of Technology, Bombay. I really love coding and learning about new frameworks and the recent developments in open-source. Hence, I try to keep myself at pace with the fast moving technological sphere of our world. ```I live on the internet.```:desktop_computer:
 
 
 - 🌱 I’m currently trying to dig deeper in Theoretical Physics, Deep Learning, Algorithms and Networking labyrinths.
