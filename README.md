@@ -4,10 +4,6 @@
   A Programmer, a Neural Networks and a Computer Vision and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Computer Science and Engineering from the Indian Institute of Technology, Bombay. 
 </p>
 
-- 🌱 I’m currently trying to dig deeper in the labyrinths of Algorithms, Machine Vision and Networking.
-
-- 💬 Ask me about anything! I'll be happy to have any sort of chat with you ranging from the ongoing AOT S04 to the recent advancements in Physics or the inevitable AI domination of the future!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 </p>
