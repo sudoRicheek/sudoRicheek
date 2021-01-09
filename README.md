@@ -1,7 +1,7 @@
 ### Hi there fellow geek 👋 I am Richeek 
 
 <p align="center">
-  A Programmer, a Neural Networks and a Computer Vision and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Computer Science and Engineering from the Indian Institute of Technology, Bombay. 
+  A Programmer, a Neural Network, Computer Vision and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Computer Science and Engineering from the Indian Institute of Technology, Bombay. 
 </p>
 
 <p align="center">
