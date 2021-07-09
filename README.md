@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  You can find more of me here: <a href="https://www.cse.iitb.ac.in/~richeek/">My Homepage</a>
+  You can find more of me here: <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>My Homepage</strong></a>
 </p>
 
 <p align="center">
