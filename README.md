@@ -1,23 +1,14 @@
-### Hi there fellow geek 👋 I am Richeek 
+### Hi there fellow geek 👋 I am [Richeek](https://www.cse.iitb.ac.in/~richeek/) 
 
-<p align="center">
-  A Programmer, Neural Network, Computer Vision and Networking Enthusiast. I am currently pursuing my B.Tech Undergraduate in Computer Science and Engineering from the Indian Institute of Technology Bombay. 
-</p>
+<a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="30px"/></a> &ensp;
+<a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
+<a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="30px"/></a> &ensp;
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
-</p>
+I am currently pursuing my B.Tech Undergraduate in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My interests are somewhat in the intersection of Image Processing, Graph Compressed Sensing, Causal Statistics, and Theoretical Deep Learning. Also, recently I have been enjoying reading about the interesting design decisions in Graph Neural Networks. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
 
-<p align="center">
-  I live on the internet.
-</p>
+<img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 
-<p align="center">
-  You can find more of me here: <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>My Homepage</strong></a>
-</p>
-
-<p align="center">
-  <a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="30px"/></a> &ensp;
-  <a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
-  <a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="30px"/></a> &ensp;
-</p>
+I live on the internet.
+  
+  
+You can find more of me, in <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>my homepage</strong></a>
