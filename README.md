@@ -9,6 +9,18 @@ I am currently pursuing my B.Tech Undergraduate in [Computer Science and Enginee
 <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 
 I live on the internet.
+
+<details>
+<summary>News & Updates: (Click to expand)</summary>
+
+<p>
+  <div style="width:100%;overflow-y:scroll; height:230px;">
+    <ul id="news">
+      <li>So empty, much wow :dog:</li>
+    </ul>
+  </div>
+</p>
+      
+</details>
   
-  
-You can find more of me, in <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>my homepage</strong></a>
+You can find more of me, in <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>my homepage.</strong></a>
