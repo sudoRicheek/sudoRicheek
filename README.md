@@ -1,11 +1,12 @@
 ### Hi there fellow geek 👋 I am [Richeek](https://www.cse.iitb.ac.in/~richeek/) 
 
-<a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="30px"/></a> &ensp;
-<a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="30px"/></a> &ensp;
-<a href="https://scholar.google.com/citations?user=ll0ZmB4AAAAJ&hl=en"><img src="https://i.imgur.com/olbDoBB.png" width="30px"/></a> &ensp;
-<a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="30px"/></a> &ensp;
+<a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="40px"/></a> &ensp;
+<a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="40px"/></a> &ensp;
+<a href="https://scholar.google.com/citations?user=ll0ZmB4AAAAJ&hl=en"><img src="https://i.imgur.com/olbDoBB.png" width="40px"/></a> &ensp;
+<a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="40px"/></a> &ensp;
+<a href="https://landskape.ai/member/richeek/"><img src="https://i.imgur.com/qkycHC4.png" width="40px"/></a> &ensp;
 
-I am currently pursuing my B.Tech Undergraduate in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My interests are somewhat in the intersection of Image Processing, Graph Compressed Sensing, Causal Statistics, and Theoretical Deep Learning. Also, recently I have been enjoying reading about the interesting design decisions in Graph Neural Networks. I am always on the look out for exciting research opportunities, so do drop by if you want to have a discussion!
+I am currently majoring in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My research interests are somewhat in the intersection of Image Processing, Compressed Sensing, Theoretical Deep Learning and Causal Statistics. Recently, I have been enjoying reading about the interesting design decisions in Graph Neural Networks! I am always on the lookout for exciting research, so do drop by if you want to have a discussion!
 
 <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 
