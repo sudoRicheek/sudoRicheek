@@ -20,6 +20,7 @@ I live on the internet.
     <ul id="news">
       <li><i>[February 2022]</i> Our work <a href="">For What It’s Worth: Humans Overwrite Their Economic Self-interest to Avoid Bargaining With AI Systems</a> has been accepted to <a href="https://chi2022.acm.org">ACM CHI 2022</a>!</li>
       <li><i>[February 2022]</i> I received the <b>Excellence in CSE Teaching Assistantship Award</b> for my work as a TA in CS251 (Software Systems Lab) last semester!</li>
+      <li><i>[January 2022]</i> Started working at <a href="https://landskape.ai"><b>Landskape AI</b></a> on some interesting research projects, answering why things work like they do!</li>
       <li><i>[January 2022]</i> Our work on <a href="">Exploring Deeper Graph Convolutions For Semi-Supervised Node Classification</a> has been accepted to <a href="https://2022.ieeeicassp.org">IEEE ICASSP 2022</a>!</li>
       <li><i>[January 2022]</i> Our work on <a href="https://openreview.net/forum?id=AyZoloYRaZW">A Distance Covariance-based Kernel for Nonlinear Causal Clustering in Heterogeneous Populations</a> has been accepted to <a href="https://www.cclear.cc/2022">CLeaR 2022</a>!</li>
       <li><i>[May 2021]</i> I'll be working with <a href="https://ujwalgadiraju.com">Prof. Ujwal Gadiraju</a>,<a href="https://www.tudelft.nl/en/">TU Delft</a> on some interesting Behavioural Economics and HCI problem!</li>
