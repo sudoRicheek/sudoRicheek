@@ -18,6 +18,8 @@ I live on the internet.
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="news">
+      <li><i>[May 2022]</i> I will be interning with Sony AI, Japan as a Deep Learning Researcher over the summers!</li>
+      <li><i>[April 2022]</i> I will be attending the <a href="https://www.cclear.cc/2022">CLeaR 2022</a> online!</li>
       <li><i>[February 2022]</i> Our work <a href="">For What It’s Worth: Humans Overwrite Their Economic Self-interest to Avoid Bargaining With AI Systems</a> has been accepted to <a href="https://chi2022.acm.org">ACM CHI 2022</a>!</li>
       <li><i>[February 2022]</i> I received the <b>Excellence in CSE Teaching Assistantship Award</b> for my work as a TA in CS251 (Software Systems Lab) last semester!</li>
       <li><i>[January 2022]</i> Started working at <a href="https://landskape.ai"><b>Landskape AI</b></a> on some interesting research projects, answering why things work like they do!</li>
