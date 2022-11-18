@@ -6,7 +6,9 @@
 <a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="35px"/></a> &ensp;
 <a href=""><img src="https://i.imgur.com/p7Sbh1b.png" width="35px"/></a> &ensp;
 
-I am currently majoring in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) from the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). My research interests are somewhat in the intersection of Image Processing, Compressed Sensing, Theoretical Deep Learning and Causal Statistics. Recently, I have been enjoying reading about the interesting design decisions in Graph Neural Networks! I am always on the lookout for exciting research, so do drop by if you want to have a discussion!
+I am currently a Senior [Computer Science and Engineering](https://www.cse.iitb.ac.in/) undergrad at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I research AI and statistics in pretty diverse fields: Computer Vision, NLU, Causal Inference, Compressed Sensing, Behavioural Economics, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore. So for now I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
+
+I am always on the lookout for exciting research opportunities, so do drop by if you want to have a discussion!
 
 <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 
@@ -18,6 +20,7 @@ I live on the internet.
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="news">
+      <li><i>[July 2022]</i> Joined <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT Lab</a>, IIT Bombay to work on Natural Language Understanding (mostly code-switching)!
       <li><i>[May 2022]</i> I will be interning with Sony AI, Japan as a Deep Learning Researcher over the summers!</li>
       <li><i>[April 2022]</i> I will be attending the <a href="https://www.cclear.cc/2022">CLeaR 2022</a> online!</li>
       <li><i>[February 2022]</i> Our work <a href="">For What It’s Worth: Humans Overwrite Their Economic Self-interest to Avoid Bargaining With AI Systems</a> has been accepted to <a href="https://chi2022.acm.org">ACM CHI 2022</a>!</li>
