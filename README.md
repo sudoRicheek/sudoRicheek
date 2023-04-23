@@ -20,6 +20,8 @@ I live on the internet.
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="news">
+      <li><i>[Jan 2023]</i> I will be attending <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google offline at Google Research India, Bangalore.</li>
+      <li><i>[Jan 2023]</i> I will be a TA for DS303 (Introduction to Machine Learning) for Spring 2023 in the CMINDS department.</li>
       <li><i>[July 2022]</i> Joined <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT Lab</a>, IIT Bombay to work on Natural Language Understanding (mostly code-switching)!
       <li><i>[May 2022]</i> I will be interning with Sony AI, Japan as a Deep Learning Researcher over the summers!</li>
       <li><i>[April 2022]</i> I will be attending the <a href="https://www.cclear.cc/2022">CLeaR 2022</a> online!</li>
