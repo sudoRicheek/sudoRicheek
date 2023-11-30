@@ -1,14 +1,14 @@
-### Hi there fellow geek 👋 I am [Richeek](https://www.cse.iitb.ac.in/~richeek/) 
+### Hi there fellow geek 👋 I am [Richeek](https://www.seas.upenn.edu/~richeek/)
 
 <a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="35px"/></a> &ensp;
 <a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="35px"/></a> &ensp;
 <a href="https://scholar.google.com/citations?user=ll0ZmB4AAAAJ&hl=en"><img src="https://i.imgur.com/olbDoBB.png" width="35px"/></a> &ensp;
-<a href="https://www.cse.iitb.ac.in/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="35px"/></a> &ensp;
+<a href="https://www.seas.upenn.edu/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="35px"/></a> &ensp;
 <a href=""><img src="https://i.imgur.com/p7Sbh1b.png" width="35px"/></a> &ensp;
 
-I am currently a Senior [Computer Science and Engineering](https://www.cse.iitb.ac.in/) undergrad at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/). I research AI and statistics in pretty diverse fields: Computer Vision, NLU, Causal Inference, Compressed Sensing, Behavioural Economics, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore. So for now I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
+I am currently a First-year [CIS](https://www.cis.upenn.edu/) PhD student at the [University of Pennsylvania](https://www.upenn.edu/). I research AI and statistics in pretty diverse fields: Sensing with different modalities, Computer Vision, NLU, RF Sensing, Causal Inference, Compressed Sensing, Human-Computer Interaction, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore! So for now, I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
 
-I am always on the lookout for exciting research opportunities, so do drop by if you want to have a discussion!
+I always look for exciting research opportunities, so do drop by if you want to discuss!
 
 <img src="https://komarev.com/ghpvc/?username=sudoRicheek&color=blueviolet"/>
 
@@ -20,6 +20,13 @@ I live on the internet.
 <p>
   <div style="width:100%;overflow-y:scroll; height:230px;">
     <ul id="news">
+      <li><i>[October 2023]</i> I am awarded the <b>Paul S. Darnell</b> named CIS PhD fellowship at UPenn!</li>
+      <li><i>[January 2022]</i> Our work on <a href="https://arxiv.org/pdf/2310.12145.pdf">Fairer and More Accurate Tabular Models Through NAS</a> has been accepted to Algorithmic Fairness Through the Lens of Time workshop of NeurIPS 2023!</li>
+      <li><i>[June 2023]</i> I received the <b>Thomas Dooie, Class of 1974 Research Excellence Award</b> for my B.Tech thesis!</li>
+      <li><i>[January 2022]</i> Our work on <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003079">Performance bounds for LASSO under multiplicative LogNormal noise: Applications to pooled RT-PCR testing</a> has been accepted to the Signal Processing Journal 2024!</li>
+      <li><i>[June 2023]</i> I received the <b>ACL 2023 Outstanding Paper Award</b> awarded to the top 1% of the accepted papers!</li>
+      <li><i>[January 2022]</i> Our work on <a href="https://aclanthology.org/2023.acl-long.66.pdf">Improving Pretraining Techniques for Code-Switched NLP</a> has been accepted to ACL 2023 as a long paper!</li>
+      <li><i>[May 2023]</i> I am nominated for the <b>Excellence in Research Award</b> in the <b>IIT Bombay CSE RnD</b> project category!</li>
       <li><i>[Jan 2023]</i> I will be attending <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google offline at Google Research India, Bangalore.</li>
       <li><i>[Jan 2023]</i> I will be a TA for DS303 (Introduction to Machine Learning) for Spring 2023 in the CMINDS department.</li>
       <li><i>[July 2022]</i> Joined <a href="https://www.cse.iitb.ac.in/~pjyothi/csalt/">CSALT Lab</a>, IIT Bombay to work on Natural Language Understanding (mostly code-switching)!
@@ -41,4 +48,4 @@ I live on the internet.
       
 </details>
   
-You can find more of me, in <a href="https://www.cse.iitb.ac.in/~richeek/"><strong>my homepage.</strong></a>
+You can find more of me, in <a href="https://www.seas.upenn.edu/~richeek/"><strong>my homepage.</strong></a>
