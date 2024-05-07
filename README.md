@@ -6,7 +6,7 @@
 <a href="https://www.seas.upenn.edu/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="35px"/></a> &ensp;
 <a href=""><img src="https://i.imgur.com/p7Sbh1b.png" width="35px"/></a> &ensp;
 
-I am currently a First-year [CIS](https://www.cis.upenn.edu/) PhD student at the [University of Pennsylvania](https://www.upenn.edu/). I specialize in understanding and working with different sensing modalities. This requires me to work in pretty diverse fields: Computer Vision, NLU, RF Sensing, Causal Inference, Compressed Sensing, Human-Computer Interaction, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore! So for now, I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
+I am currently a First-year [CIS](https://www.cis.upenn.edu/) PhD student at the [University of Pennsylvania](https://www.upenn.edu/). I specialize in understanding and working with different sensing modalities. This requires me to work in pretty diverse fields: Computer Vision, NLU, 3D Vision, Causal Inference, Compressed Sensing, Human-Computer Interaction, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore! So for now, I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
 
 I always look for exciting research opportunities, so do drop by if you want to discuss!
 
