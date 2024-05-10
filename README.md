@@ -3,7 +3,6 @@
 <a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="35px"/></a> &ensp;
 <a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="35px"/></a> &ensp;
 <a href="https://scholar.google.com/citations?user=ll0ZmB4AAAAJ&hl=en"><img src="https://i.imgur.com/olbDoBB.png" width="35px"/></a> &ensp;
-<a href="https://www.seas.upenn.edu/~richeek/"><img src="https://raw.githubusercontent.com/sudoRicheek/sudoRicheek.github.io/master/images/favicon.ico" width="35px"/></a> &ensp;
 <a href=""><img src="https://i.imgur.com/p7Sbh1b.png" width="35px"/></a> &ensp;
 
 I am currently a First-year [CIS](https://www.cis.upenn.edu/) PhD student at the [University of Pennsylvania](https://www.upenn.edu/). I specialize in understanding and working with different sensing modalities. This requires me to work in pretty diverse fields: Computer Vision, NLU, 3D Vision, Causal Inference, Compressed Sensing, Human-Computer Interaction, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore! So for now, I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b> 
