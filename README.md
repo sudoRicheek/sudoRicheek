@@ -1,6 +1,6 @@
 ### Hi there fellow geek 👋 I am [Richeek](https://www.seas.upenn.edu/~richeek/)
 
-<a href="mailto:richeekdas2001@gmail.com"><img src="https://i.imgur.com/jskyI9X.png" width="35px"/></a> &ensp;
+<a href="mailto:richeek@seas.upenn.edu"><img src="https://i.imgur.com/jskyI9X.png" width="35px"/></a> &ensp;
 <a href="https://www.linkedin.com/in/richeek-das-204b84188/"><img src="https://i.imgur.com/8aJxz4M.png" width="35px"/></a> &ensp;
 <a href="https://scholar.google.com/citations?user=ll0ZmB4AAAAJ&hl=en"><img src="https://i.imgur.com/olbDoBB.png" width="35px"/></a> &ensp;
 
